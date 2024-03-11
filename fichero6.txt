@@ -1,1 +1,2 @@
 Fichero6
+Línea 1 de fichero6
